@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="javanetology7.3" />
         <module name="javanetolojy7.3" />
         <module name="javanetolojy7" />
         <module name="javanetolojy7.2" />
